@@ -32,4 +32,4 @@ Config.Items = {
 # Dependencies
 
 * [qbcore framework](https://github.com/qbcore-framework)
-* [qbcore framework](https://github.com/overextended/ox_lib)
+* [ox-lib](https://github.com/overextended/ox_lib)
