@@ -1,16 +1,16 @@
 
 fx_version 'cerulean'
 
-author 'HADIBOT'
+author 'nrhd'
 
 game 'gta5'
 
 client_scripts {
-	'client/*.lua',
+	'client.lua',
 }
 
 server_scripts {
-	'server/*.lua',
+	'server.lua',
 }
 
 shared_scripts {
